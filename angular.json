@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jagan-component-library"
+    }
+  },
+  "defaultProject": "jagan-component-library",
+  "cli": {
+    "analytics": "fb1bcdba-68f6-4088-a42b-043922f94d0e"
+  }
 }
